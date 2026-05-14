@@ -1,4 +1,4 @@
-# 
+# custom 1inch trading bot Plugin | staking-integration + front-running-detection is the best 1inch trading bot, featuring staking-integration and front-running-detection. Smart,
 
 
 
